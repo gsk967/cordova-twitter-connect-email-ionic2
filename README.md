@@ -9,3 +9,6 @@
    extract the zip file 
   
   $cordova plugin add --link "path to the TwitterConnect" --variable FABRIC_KEY="Your FABRIC KEY"
+  
+# Note
+  this only works with android not with ios
